@@ -1,7 +1,9 @@
+package Section_3_First_Steps;
+
 public class Hello {
 
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Section_3_First_Steps.Hello World");
 
         int myFirstNumber = (10 + 5) + (2 * 10);
         int mySecondNumber = 12;

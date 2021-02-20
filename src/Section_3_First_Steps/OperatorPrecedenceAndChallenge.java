@@ -1,3 +1,5 @@
+package Section_3_First_Steps;
+
 public class OperatorPrecedenceAndChallenge {
     public static void main(String[] args){
         // 40. Operator Precedence and Operator Challenge

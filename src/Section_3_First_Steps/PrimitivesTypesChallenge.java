@@ -1,3 +1,5 @@
+package Section_3_First_Steps;
+
 public class PrimitivesTypesChallenge {
     public static void main(String[] args){
         // Challenge = create a byte var and set it to any valid bte num.

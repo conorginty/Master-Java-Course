@@ -1,3 +1,5 @@
+package Section_3_First_Steps;
+
 public class CharAndBoolean {
     public static void main(String[] args){
         // 31. The char and boolean Primitive Data Types

@@ -1,3 +1,5 @@
+package Section_3_First_Steps;
+
 public class Strings {
     public static void main(String[] args) {
         // 32. Primitive Type Reacp and the String Data Type
@@ -32,7 +34,7 @@ public class Strings {
         numberStr += someDouble;
         System.out.println(numberStr); // 25010123.45
 
-        // Strings in Java are immutable (can't be changed after they're created).
+        // Section_3_First_Steps.Strings in Java are immutable (can't be changed after they're created).
         // If we want to modify them (add or delete characters) then a new String must be created.
         // So on ln22, numberStr does NOT get appended the value 10 (stored in someNum).
         // Instead a new String is created which consists of the previous value of numberStr concatted with the String repr of 10.
